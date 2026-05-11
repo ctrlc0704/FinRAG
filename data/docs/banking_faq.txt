@@ -1,0 +1,103 @@
+# Tài liệu FAQ Sản Phẩm Ngân Hàng Số - Tyme Bank / GoTymeX
+
+## 1. Tài Khoản Thanh Toán
+
+### Mở tài khoản
+Khách hàng có thể mở tài khoản thanh toán hoàn toàn trực tuyến thông qua ứng dụng di động. Quy trình gồm 3 bước: tải ứng dụng, xác minh danh tính bằng CCCD/CMND và chụp ảnh selfie, sau đó thiết lập mã PIN. Toàn bộ quá trình mất khoảng 5-10 phút. Khách hàng không cần đến chi nhánh.
+
+### Điều kiện mở tài khoản
+Khách hàng cá nhân từ đủ 18 tuổi, có CCCD/CMND còn hiệu lực, có số điện thoại Việt Nam đang hoạt động. Không yêu cầu số dư tối thiểu để mở tài khoản. Công dân nước ngoài cư trú hợp pháp tại Việt Nam cũng có thể mở tài khoản với hộ chiếu và thị thực hợp lệ.
+
+### Số dư tối thiểu
+Tài khoản thanh toán cơ bản không yêu cầu số dư tối thiểu. Tài khoản tiết kiệm có kỳ hạn yêu cầu tối thiểu 1.000.000 VNĐ. Tài khoản tiết kiệm không kỳ hạn không yêu cầu số dư tối thiểu.
+
+---
+
+## 2. Thẻ Ngân Hàng
+
+### Thẻ Debit
+Thẻ ghi nợ nội địa (Napas) được cấp miễn phí khi mở tài khoản. Thẻ Visa/Mastercard quốc tế có phí phát hành 50.000 VNĐ. Hạn mức giao dịch thẻ nội địa: 20.000.000 VNĐ/ngày. Hạn mức thẻ quốc tế: 50.000.000 VNĐ/ngày.
+
+### Thẻ Credit
+Hạn mức tín dụng từ 5.000.000 đến 200.000.000 VNĐ tùy điều kiện. Lãi suất thẻ tín dụng: 2%/tháng (24%/năm). Miễn lãi tối đa 55 ngày. Phí thường niên: 200.000 VNĐ/năm, miễn phí năm đầu.
+
+### Khóa/mở thẻ
+Khách hàng có thể tạm khóa hoặc mở khóa thẻ trực tiếp trong ứng dụng di động 24/7 mà không cần liên hệ tổng đài. Chức năng này giúp bảo vệ tài khoản ngay lập tức khi nghi ngờ thất lạc thẻ.
+
+---
+
+## 3. Vay Tiêu Dùng
+
+### Vay tiền mặt
+Hạn mức vay từ 5.000.000 đến 300.000.000 VNĐ. Lãi suất từ 12%/năm đến 24%/năm tùy hồ sơ và kỳ hạn. Thời hạn vay từ 6 đến 60 tháng. Giải ngân trong vòng 24 giờ sau khi phê duyệt. Không yêu cầu tài sản thế chấp cho khoản vay dưới 100.000.000 VNĐ.
+
+### Điều kiện vay
+Khách hàng từ 22 đến 60 tuổi. Thu nhập tối thiểu 5.000.000 VNĐ/tháng. Có lịch sử tín dụng tốt (CIC). Đang cư trú và làm việc tại Việt Nam.
+
+### Vay mua điện thoại / thiết bị điện tử
+Hợp tác với các đối tác bán lẻ (CellphoneS, Thế Giới Di Động, FPT Shop). Lãi suất ưu đãi từ 0%/tháng cho kỳ hạn 3-6 tháng. Thủ tục tại điểm bán: chỉ cần CCCD và số điện thoại, duyệt trong 5 phút.
+
+---
+
+## 4. Tiết Kiệm & Đầu Tư
+
+### Tiết kiệm có kỳ hạn
+Kỳ hạn từ 1 đến 36 tháng. Lãi suất hiện tại (2024): 1 tháng 3.5%/năm, 3 tháng 4.0%/năm, 6 tháng 5.2%/năm, 12 tháng 5.8%/năm, 24 tháng 5.5%/năm. Có thể tất toán trước hạn, hưởng lãi suất không kỳ hạn.
+
+### Tiết kiệm không kỳ hạn
+Lãi suất 1.5%/năm. Tính lãi hàng ngày, trả lãi hàng tháng. Rút tiền bất kỳ lúc nào không mất phí.
+
+### GoalSave (Tiết kiệm mục tiêu)
+Tính năng giúp khách hàng đặt mục tiêu tiết kiệm (mua xe, du lịch, học phí...). Tự động trích tiền định kỳ theo thiết lập. Lãi suất cộng thêm 0.5%/năm so với tiết kiệm thông thường. Không bị phạt khi rút sớm nếu đạt 80% mục tiêu.
+
+---
+
+## 5. Thanh Toán & Chuyển Tiền
+
+### Chuyển tiền nội bộ
+Miễn phí 24/7. Tức thì, không giới hạn số lần.
+
+### Chuyển tiền liên ngân hàng
+Qua Napas 247: miễn phí, tức thì, giới hạn 500.000.000 VNĐ/giao dịch. Qua SWIFT (quốc tế): phí 200.000 - 500.000 VNĐ/giao dịch, 2-5 ngày làm việc.
+
+### Thanh toán hóa đơn
+Hỗ trợ thanh toán điện, nước, internet, truyền hình cáp, bảo hiểm, học phí tại hơn 2.000 đối tác. Đặt lịch thanh toán tự động hàng tháng.
+
+### QR Pay
+Hỗ trợ VietQR, thanh toán tại hàng triệu điểm bán trong nước. Tích hợp với ví điện tử MoMo, ZaloPay, VNPay.
+
+---
+
+## 6. Bảo Mật & Xác Thực
+
+### Xác thực 2 lớp (2FA)
+Bắt buộc với mọi giao dịch tài chính. Sử dụng OTP qua SMS hoặc xác thực sinh trắc học (vân tay, Face ID).
+
+### Giới hạn giao dịch theo rủi ro
+Giao dịch dưới 5.000.000 VNĐ: chỉ cần PIN. Giao dịch từ 5.000.000 đến 50.000.000 VNĐ: PIN + OTP. Giao dịch trên 50.000.000 VNĐ: PIN + OTP + xác nhận qua email đăng ký.
+
+### Phát hiện gian lận (Fraud Detection)
+Hệ thống AI giám sát giao dịch 24/7 theo thời gian thực. Tự động chặn giao dịch bất thường và thông báo cho khách hàng qua push notification. Khách hàng có thể xác nhận hoặc báo cáo gian lận trực tiếp trong app.
+
+---
+
+## 7. Hỗ Trợ Khách Hàng
+
+### Kênh hỗ trợ
+Hotline: 1800 6X68 (miễn phí, 24/7). Live chat trong ứng dụng: 8:00 - 22:00 hàng ngày. Email: support@tymebank.vn. Chatbot AI hỗ trợ tự động 24/7 cho các câu hỏi thường gặp.
+
+### Khiếu nại giao dịch
+Thời hạn khiếu nại: trong vòng 60 ngày kể từ ngày giao dịch. Thời gian xử lý: 3-7 ngày làm việc với giao dịch nội địa, 15-45 ngày với giao dịch quốc tế. Hoàn tiền tạm thời trong vòng 5 ngày làm việc cho khiếu nại có cơ sở.
+
+---
+
+## 8. Quy Định Tuân Thủ
+
+### KYC (Know Your Customer)
+Xác minh danh tính bắt buộc theo Thông tư 09/2023/TT-NHNN. Cập nhật thông tin KYC định kỳ 2 năm/lần. eKYC (xác minh điện tử) được chấp nhận cho mở tài khoản online.
+
+### Hạn mức eKYC
+Tài khoản eKYC mức 1: hạn mức giao dịch 100.000.000 VNĐ/tháng. Tài khoản eKYC mức 2 (xác minh nâng cao): không giới hạn. Nâng cấp bằng cách đến điểm giao dịch hoặc xác minh video call.
+
+### AML (Anti-Money Laundering)
+Báo cáo giao dịch đáng ngờ theo Luật Phòng chống rửa tiền. Giao dịch tiền mặt từ 300.000.000 VNĐ/ngày phải khai báo với NHNN. Tự động giám sát và báo cáo theo quy định FATF.

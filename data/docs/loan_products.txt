@@ -1,0 +1,77 @@
+# Chính Sách Sản Phẩm Vay & Tín Dụng - Ngân Hàng Số 2024
+
+## Vay Mua Nhà (Home Loan)
+
+### Thông tin tổng quan
+Sản phẩm vay mua nhà dành cho khách hàng cá nhân muốn mua, xây dựng hoặc sửa chữa bất động sản. Đây là sản phẩm tín dụng dài hạn với lãi suất ưu đãi và thủ tục linh hoạt.
+
+### Hạn mức và kỳ hạn
+Hạn mức vay tối đa: 70% giá trị tài sản đảm bảo (LTV 70%). Giá trị vay từ 200.000.000 đến 10.000.000.000 VNĐ. Thời hạn vay từ 5 đến 25 năm. Ân hạn gốc tối đa 24 tháng.
+
+### Lãi suất vay mua nhà
+Năm 1-2: lãi suất cố định 7.5%/năm (ưu đãi). Từ năm 3 trở đi: lãi suất thả nổi = Lãi suất tham chiếu (VNIBOR 12 tháng) + biên độ 3.5%/năm. Lãi suất hiện tại thả nổi ước tính: 10.5-11%/năm.
+
+### Tài sản đảm bảo
+Nhà ở, căn hộ chung cư, đất ở có sổ đỏ/sổ hồng. Không nhận tài sản tranh chấp pháp lý. Phải mua bảo hiểm cháy nổ trong suốt thời gian vay.
+
+### Hồ sơ vay mua nhà
+CCCD/CMND còn hiệu lực. Hợp đồng mua bán / giấy tờ pháp lý bất động sản. Chứng minh thu nhập: sao kê lương 3-6 tháng gần nhất hoặc hợp đồng lao động. Báo cáo tài chính nếu khách hàng tự kinh doanh. Thời gian xét duyệt: 5-10 ngày làm việc.
+
+---
+
+## Vay Kinh Doanh SME
+
+### Đối tượng khách hàng
+Doanh nghiệp vừa và nhỏ (SME) đăng ký kinh doanh hợp lệ tại Việt Nam. Thời gian hoạt động tối thiểu 12 tháng. Doanh thu năm gần nhất từ 1 tỷ VNĐ trở lên.
+
+### Sản phẩm vay SME
+Vay bổ sung vốn lưu động: đến 5.000.000.000 VNĐ, kỳ hạn đến 12 tháng, quay vòng. Vay đầu tư tài sản cố định: đến 20.000.000.000 VNĐ, kỳ hạn đến 7 năm. Hạn mức tín dụng (Credit Line): linh hoạt rút và trả theo nhu cầu.
+
+### Điều kiện và lãi suất SME
+Lãi suất vay vốn lưu động: từ 8.5%/năm. Lãi suất vay đầu tư: từ 9%/năm. Phí thẩm định: 0.1% giá trị khoản vay, tối thiểu 1.000.000 VNĐ. Tài sản đảm bảo: bất động sản hoặc hàng tồn kho, máy móc thiết bị.
+
+---
+
+## Điểm Tín Dụng & CIC
+
+### CIC Score là gì
+CIC (Credit Information Center) là trung tâm thông tin tín dụng quốc gia do NHNN quản lý. Điểm CIC phản ánh lịch sử tín dụng của khách hàng từ tất cả các tổ chức tín dụng tại Việt Nam. Điểm từ 350-850, điểm càng cao khả năng vay càng tốt.
+
+### Phân loại nợ CIC
+Nhóm 1 (Nợ đủ tiêu chuẩn): tốt, vay bình thường. Nhóm 2 (Nợ cần chú ý): quá hạn 10-90 ngày, ảnh hưởng đến điều kiện vay. Nhóm 3 (Nợ dưới tiêu chuẩn): quá hạn 90-180 ngày, hạn chế vay. Nhóm 4 (Nợ nghi ngờ): quá hạn 180-360 ngày, rất khó vay. Nhóm 5 (Nợ có khả năng mất vốn): quá hạn trên 360 ngày, không thể vay.
+
+### Cải thiện điểm tín dụng
+Thanh toán đúng hạn tất cả các khoản vay và thẻ tín dụng. Không vay quá nhiều tổ chức cùng một lúc. Giữ tỷ lệ sử dụng hạn mức thẻ tín dụng dưới 30%. Lịch sử tín dụng tốt liên tục trong 12-24 tháng có thể nâng điểm đáng kể.
+
+---
+
+## Bảo Hiểm Tích Hợp
+
+### Bảo hiểm nhân thọ kết hợp tiết kiệm
+Đối tác bảo hiểm: Manulife, Dai-ichi Life, Prudential. Phí bảo hiểm từ 1.000.000 VNĐ/tháng. Quyền lợi: bảo vệ rủi ro tử vong/thương tật + tích lũy tài sản dài hạn. Kỳ hạn hợp đồng: 10-30 năm.
+
+### Bảo hiểm phi nhân thọ
+Bảo hiểm xe máy, ô tô bắt buộc và tự nguyện. Bảo hiểm nhà ở, tài sản. Bảo hiểm du lịch quốc tế. Phát hành và quản lý hợp đồng 100% trực tuyến qua ứng dụng.
+
+---
+
+## Open Banking & API
+
+### Tính năng Open Banking
+Cho phép kết nối ứng dụng bên thứ 3 (fintech, ví điện tử, phần mềm kế toán) với tài khoản ngân hàng qua API chuẩn. Tuân thủ tiêu chuẩn Open Banking theo hướng dẫn của NHNN Việt Nam. Khách hàng kiểm soát hoàn toàn quyền truy cập của ứng dụng bên thứ 3.
+
+### Đối tác tích hợp
+Ví điện tử: MoMo, ZaloPay, VNPay, ShopeePay. Thương mại điện tử: Shopee, Lazada, Tiki, Sendo. Phần mềm kế toán: MISA, Fast Accounting. Nền tảng đầu tư: TCBS, VPS, SSI.
+
+---
+
+## Công Nghệ AI trong Dịch Vụ Ngân Hàng
+
+### Credit Scoring bằng AI
+Mô hình AI phân tích hơn 200 biến số để đánh giá rủi ro tín dụng, bao gồm hành vi chi tiêu, lịch sử giao dịch, và dữ liệu thay thế. Độ chính xác cao hơn 30% so với phương pháp truyền thống. Quyết định phê duyệt tức thì cho khoản vay dưới 50.000.000 VNĐ.
+
+### Chatbot & Virtual Assistant
+AI chatbot xử lý 70% câu hỏi của khách hàng mà không cần nhân viên. Hiểu ngôn ngữ tự nhiên tiếng Việt, phương ngữ và tiếng lóng. Chuyển kết nối mượt mà sang nhân viên khi cần xử lý phức tạp.
+
+### Fraud Detection AI
+Phân tích real-time hơn 500 điểm dữ liệu mỗi giao dịch. Phát hiện gian lận trong vòng 200 mili giây. Tỷ lệ phát hiện đúng (True Positive Rate): 98.5%. Tỷ lệ báo động nhầm (False Positive Rate) dưới 0.1%.
