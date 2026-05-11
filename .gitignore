@@ -2,7 +2,7 @@
 .env
 *.env
 
-# FAISS index (build locally, không push lên GitHub)
+# FAISS index (build locally, do not push to GitHub)
 faiss_index/
 
 # Python

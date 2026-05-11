@@ -13,16 +13,16 @@ from langchain.prompts import PromptTemplate
 INDEX_DIR = "faiss_index"
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
-PROMPT_TEMPLATE = """Bạn là trợ lý AI của một ngân hàng số. Hãy trả lời câu hỏi dựa trên tài liệu được cung cấp.
-Nếu tài liệu không chứa thông tin liên quan, hãy nói "Tôi không tìm thấy thông tin này trong tài liệu."
-Trả lời bằng tiếng Việt, rõ ràng và ngắn gọn.
+PROMPT_TEMPLATE = """You are an AI assistant for a digital bank. Answer the question based on the provided documents.
+If the documents do not contain relevant information, say "I could not find this information in the documents."
+Answer in English, clearly and concisely.
 
-Tài liệu tham khảo:
+Reference documents:
 {context}
 
-Câu hỏi: {question}
+Question: {question}
 
-Trả lời:"""
+Answer:"""
 
 
 def load_vectorstore():

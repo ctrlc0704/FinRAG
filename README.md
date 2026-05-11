@@ -107,11 +107,11 @@ Open browser at `http://localhost:8501` 🎉
 ## 💬 Example Queries
 
 ```
-"Lãi suất tiết kiệm 12 tháng là bao nhiêu?"
-"Điều kiện vay tiêu dùng là gì?"
-"Hạn mức giao dịch thẻ quốc tế là bao nhiêu?"
-"AI được dùng như thế nào trong fraud detection?"
-"Làm sao cải thiện điểm tín dụng CIC?"
+"What is the 12-month savings interest rate?"
+"What are the requirements for a consumer loan?"
+"What is the transaction limit for international cards?"
+"How is AI used in fraud detection?"
+"How can I improve my CIC credit score?"
 ```
 
 ---
@@ -144,9 +144,10 @@ python ingest.py
 ```
 
 Good sources for fintech documents:
-- Báo cáo thường niên ngân hàng (Vietcombank, Techcombank...)
-- Tài liệu chính sách NHNN tại [sbv.gov.vn](https://sbv.gov.vn)
-- FAQ sản phẩm từ website ngân hàng
+
+- Bank annual reports (Vietcombank, Techcombank...)
+- State Bank of Vietnam policy documents at [sbv.gov.vn](https://sbv.gov.vn)
+- Product FAQs from bank websites
 
 ---
 
